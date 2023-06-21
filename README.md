@@ -62,6 +62,12 @@ After you're finished please remove all the comments and instructions!
 
 - **Decode Morse code:** '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 
+
+### Future Features <a name="key-features"></a>
+
+- Install rails to support the present App
+- Create Enumurables with Ruby
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -89,8 +95,14 @@ In order to run this project you need: to install ruby
 👤 **Tom Daniel**
 
 - GitHub: [@tomdan-ai](https://github.com/bilalrajput09)
-- Twitter: [@kvng Webstar](https://twitter.com/bilal_rajput09)
+- Twitter: [@kvng Webstar](https://twitter.com/tomudoh1)
 - LinkedIn [Tom Udoh](https://www.linkedin.com/in/tomudoh/)
+
+👤 **Omar Farouq**
+
+- GitHub: [@Ofarouq310](https://github.com/Ofarouq310)
+- Twitter: [@ofarouq310](https://twitter.com/ofarouq310)
+- LinkedIn [Ofarouq310](https://www.linkedin.com/in/Ofarouq310/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

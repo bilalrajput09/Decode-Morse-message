@@ -1,7 +1,7 @@
 def process_word(word)
 #   ->
   array_of_words = word.split
-  message = ''
+  message = '' 
   array_of_words.each do |char|
     message += morse_code_hash[char]
   end

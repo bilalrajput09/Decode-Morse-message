@@ -45,4 +45,5 @@ def decode_message(string)
   p message_arr.join(' ')
 end
 
-# -> 
+decode_message('  .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+decode_message('-- -.--   -. .- -- .')
